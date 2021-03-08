@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**its-me-satya/its-me-satya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
+<h4>Hii!! This is Satya, i'm a Software Enthusiast, i love to make Designs to Interfaces, and Working models. I do create Micro-animations using AfterEffects and 3d models in blender ♥</h4>
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
