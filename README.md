@@ -1,14 +1,31 @@
-## Hi there 👋
-<h4>Hii!! This is Satya, i'm a Software Enthusiast, i love to make Designs to Interfaces, and Working models. I do create Micro-animations using AfterEffects and 3d models in blender ♥</h4>
+## Holaa 👋
+<h3>This is Satya, i'm a Front-End Enthusiast ⚡ ,<br>I love to make Designs to Working Interfaces. I do create Micro-animations using AfterEffects and 3d models in blender ♥</h3>
 
-Here are some ideas to get you started:
+<b>My Tech Profile :</b>
+#
+# #Flutter 
+I do Use
+- ⭐ Figma to Design Prototypes
+- 💪 VS-Code Editor to Code
+- 📱 Android Studio For Simulating App or Direct Physical Device
+- 📮 Flutter Packages  
+>## my projects in Flutter:
+-  >### Digi_Locker
+-    >### Flutter_Navigator
+#
+# #Web_Dev </>
+i'm a Front-end Devloper, Passionate on Learning and Engageing with new projects
+>## my projects in Web_Dev(/)
+- >###  HairSnap
+- >### Filegram
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+#
+
+
+- 📫 How to reach me:
+<br>Medium: https://satyapavanvanka.medium.com/
+<br>Instagram: https://www.instagram.com/echoo_man/
+<br>Github: https://github.com/its-me-satya
+
 
