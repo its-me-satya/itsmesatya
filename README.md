@@ -2,6 +2,7 @@
 <h3>This is Satya, i'm a Front-End Enthusiast ⚡ ,<br>I love to make Designs to Working Interfaces. I do create Micro-animations using AfterEffects and 3d models in blender ♥</h3>
 <br><p>#web_dev #Flutter #Photoshop # illustration #After_effects #Premier_Pro #Figma #blender<br><p>
 <p>I never take stress to loop things in life , i always thinks different that make me unique!!</p>
+<br>
 <b>My Tech Profile :</b>
 #
 # #Flutter 
